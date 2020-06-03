@@ -1,5 +1,5 @@
 
-# Covid WorldoMeter-Tracker and Notifier In Python [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+# Covid WorldoMeter-Tracker and Notifier [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ### This is a simple python script which tracks the stats of Covid 19 Outbreak in the world as well as for specified country by the user and Displays a Notification with detail such as Coronavirus-Cases,Deaths,Recovered
 ---
 ### Instructions
