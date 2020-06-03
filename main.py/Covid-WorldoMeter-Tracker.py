@@ -106,6 +106,9 @@ if __name__ == "__main__":
             print(f"{'='*40}")
             View_by_country()
         else:
+            ntitle="COVID-19 Coronavirus Pandemic" 
+            ntext='\n"We Are In This Together-\nAnd We Will Get Through This,\nTogether."'
+            notifyMe(ntitle,ntext)
             break
     print(f"{'='*40}")
     print('\n"We Are In This Together-\nAnd We Will Get Through This,\nTogether."')    
